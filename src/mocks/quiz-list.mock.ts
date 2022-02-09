@@ -23,6 +23,6 @@ export const QUIZ_LIST: Quiz[] = [
     },
     {
         name: 'Les Sports',
-        questions: [],
+        questions2: [],
     }
 ];
